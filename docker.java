@@ -1,3 +1,6 @@
+public static void main()
+{
+
 ---
 version: '1'
 
@@ -10,3 +13,4 @@ services:
    - 8080:80
   
 ...
+}
